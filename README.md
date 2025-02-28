@@ -1,6 +1,6 @@
 ```markdown
   
-```diff
+
 +▓█████▄  ▒█████   ██▀███   ██▓███   ███▄ ▄███▓
 +▒██▀ ██▌▒██▒  ██▒▓██ ▒ ██▒▓██░  ██▒▓██▒▀█▀ ██▒
 +░██   █▌▒██░  ██▒▓██ ░▄█ ▒▓██░ ██▓▒▓██    ▓██░
@@ -11,7 +11,7 @@
 + ░ ░  ░ ░ ░ ░ ▒    ░░   ░ ░░       ░      ░   
 +   ░        ░ ░     ░                   ░     
 + ░                                             
-```
+
 
 </div>
 
@@ -38,10 +38,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/nasifh4s4n/FOX-CLONER.git
+git clone https://github.com/nasifh4s4n/FOX-CLONER-.git
 
 # Navigate to directory
-cd FOX-CLONER 
+cd FOX-CLONER- 
 
 # Install requirements
 pip install -r fox.txt
