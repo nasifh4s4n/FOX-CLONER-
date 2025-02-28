@@ -1,0 +1,5 @@
+requests
+concurrent.futures
+mechanize
+cryptography
+python-telegram-bot
