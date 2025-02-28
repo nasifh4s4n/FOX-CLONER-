@@ -1,16 +1,4 @@
 ```markdown
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF7F11&center=true&vCenter=true&width=435&lines=🦊+FOX+CLONER-404+🦊;Advanced+Account+Cracker;Telegram+Controlled+System;Multi-Method+Attack+Engine;Professional+Toolkit" alt="FOX CLONER Header">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-0.1.0-FF7F11?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/License-MIT-FF7F11?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-FF7F11?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Status-Active-FF7F11?style=for-the-badge">
-</p>
-
-<div align="center">
   
 ```diff
 +▓█████▄  ▒█████   ██▀███   ██▓███   ███▄ ▄███▓
@@ -50,16 +38,16 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/nasifh4s4n/Foxy.git
+git clone https://github.com/nasifh4s4n/FOX-CLONER.git
 
 # Navigate to directory
-cd Foxy
+cd FOX-CLONER 
 
 # Install requirements
-pip install -r requirements.txt
+pip install -r fox.txt
 
 # Start the tool
-python FOX_CLONER.py
+python FOX.py
 ```
 
 ## 🚦 **Usage**
